@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coreyamugford
-- 👀 I’m interested in learning a lot more about the cloud
-- 🌱 I’m currently learning Python, and preparing to pass the AWS Certified Solutions Architect exam
+- 👀 I’m interested in all things cloud. I am an AWS Certified Solutions Architect Associate
+- 🌱 I’m currently practicing with Terraform and am getting better at Python
 - 💞️ I’m looking to collaborate on anything that will get me real world cloud experience
 - 📫 How to reach me corey.mugford@gmail.com
 
