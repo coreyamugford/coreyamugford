@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @coreyamugford
-- 👀 I’m interested in all things cloud. I am an AWS Certified Solutions Architect Associate
-- 🌱 I’m currently practicing with Terraform and am getting better at Python
-- 💞️ I’m looking to collaborate on anything that will get me real world cloud experience
+- 👀 I’m interested in all things cloud. 
+- I am an AWS Certified Solutions Architect Associate
+- 🌱 I have professional experience with Terraform and Kubernetes.
+- 💞️ In I.T. I have worked professionally as an SRE and as a Cloud Engineer.
 - 📫 How to reach me corey.mugford@gmail.com
 
 <!---
